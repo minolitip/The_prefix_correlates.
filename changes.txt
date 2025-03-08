@@ -1,3 +1,4 @@
 "Commit The inbox pays." 
 "Commit The whistle pulls." 
 "Commit The choice cycles." 
+"Commit The terrorist reads." 
